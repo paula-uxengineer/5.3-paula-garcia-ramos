@@ -1,0 +1,41 @@
+{
+    "_id": "ObjectId",
+    "googles": "Googles name",
+    "glasses": {
+      "brand": "Brand name",
+      "frame_type": ["Metallic", "Paste", "Floating"],
+      "price": 127.0,
+      "supplier": {
+        "name": "Googles Associated SL",
+        "address": {
+          "street": "Street name",
+          "number": "12",
+          "floor": "1",
+          "door": "A",
+          "city": "City name",
+          "postal_code": "Postal code",
+          "country": "Country name"
+        },
+        "telephone": "123456789",
+        "fax": "12345678",
+        "nif": "12345678"
+      }
+    },
+    "bought_by": [
+        {
+            "name": "Client name 1",
+            "address": "Right Street, 123",
+            "telephone": "678921235",
+            "email": "email@email.com",
+            "registration_date": "23-09-2023"
+        },
+        {
+            "name": "Client name 2",
+            "address": "Right Street, 123",
+            "telephone": "678921235",
+            "email": "email@email.com",
+            "registration_date": "23-09-2023"
+        }
+    ]
+  }
+  

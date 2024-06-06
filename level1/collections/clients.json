@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "name": "Client name",
+    "address": "Right Street, 123",
+    "telephone": "678921235",
+    "email": "email@email.com",
+    "registration_date": "23-09-2023"
+}

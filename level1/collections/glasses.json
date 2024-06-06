@@ -1,0 +1,11 @@
+{
+  "_id": "ObjectId",
+  "brand": "Brand name",
+  "left_graduation": 2.3,
+  "right_graduation": 2.0,
+  "frame_type": ["Metallic", "Paste", "Floating"],
+  "frame_color": "Type color",
+  "left_glass_color": "Type color",
+  "right_glass_color": "Type color",
+  "price": 127.0
+}

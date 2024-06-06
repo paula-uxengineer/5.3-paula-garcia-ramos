@@ -1,0 +1,16 @@
+{
+  "_id": "ObjectId",
+  "name": "Supplier name",
+  "address": {
+    "street": "Street name",
+    "number": "12",
+    "floor": "1",
+    "door": "A",
+    "city": "City name",
+    "postal_code": "Postal code",
+    "country": "Country name"
+  },
+  "telephone": "123456789",
+  "fax": "12345678",
+  "nif": "12345678"
+}

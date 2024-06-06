@@ -1,0 +1,27 @@
+{
+  "_id": "ObjectId",
+  "name": "Client name",
+  "address": "Right Street, 123",
+  "telephone": "678921235",
+  "email": "email@email.com",
+  "registration_date": "23-09-2023",
+  "last_shoppings": [
+    {
+      "sale_date": "2023-09-24",
+      "sale_time": "08:00",
+      "glasses": {
+        "brand": "Brand name",
+        "left_lens_graduation": 2.3,
+        "right_lens_graduation": 2.0,
+        "frame_type": ["Metallic", "Paste", "Floating"],
+        "frame_color": "Type color",
+        "left_glass_color": "Type color",
+        "right_glass_color": "Type color",
+        "price": 127.0
+      },
+      "employee": {
+        "name": "Employee name"
+      }
+    }
+  ]
+}
